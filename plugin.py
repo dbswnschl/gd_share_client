@@ -55,9 +55,9 @@ plugin_info = {
     'category_name' : 'service',
     'developer' : 'soju6jan',
     'description' : '구글 드라이브 공유 클라이언트',
-    'home' : 'https://github.com/soju6jan/gd_share_client',
+    'home' : 'https://github.com/dbswnschl/gd_share_client',
     'more' : '',
-    'policy_level' : 4,
+    'policy_level' : 3,
 }
 
 def plugin_load():
